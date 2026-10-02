@@ -1,0 +1,8 @@
+1) Criar .env a partir de .env.example.
+2) Rodar npm install.
+3) Testar com DEMO_MODE=true.
+4) Criar/configurar aplicação Mercado Pago.
+5) Colocar Access Token e segredo do Webhook no servidor.
+6) Publicar em domínio HTTPS.
+7) Configurar o webhook /api/webhooks/mercadopago.
+8) Testar pagamento antes de abrir ao público.
